@@ -1,0 +1,6 @@
+Restoran otomasyonunun düzgün bir şekilde çalışması için ilk önce sql dosyasını veri tabanınıza import ediniz
+ve tüm cs dosyalarındaki ip adresini kendi ip adresiniz yapınız.
+uygulama başladıktan sonra ürünleri vb. şeyleri eklemek için yönetici olarak giriş yapmanız gerekmekte
+yönetici eklemek için yönetici şifre alanına 0000 şifresini yazıp giriş butonuna tıklayınız.
+ardından tekrardan giriş formuna dönünüz ve oradan yönetici şifresi olarak belirlenen şifre ile giriş yapınız
+artık ürün vb. ekleye bilirsiniz.
